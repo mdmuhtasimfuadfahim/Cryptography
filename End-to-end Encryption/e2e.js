@@ -1,10 +1,9 @@
 const crypto = require('crypto')
-const E2E = require('e2e-encryption')
 
 const alice = crypto.getDiffieHellman('modp15')
 const bob = crypto.getDiffieHellman('modp15')
 
-// console.log(bob.getPrime().toString('hex'))
+console.log(bob.getPrime().toString('hex'))
 
 alice.generateKeys()
 bob.generateKeys()
@@ -19,8 +18,8 @@ public and private key of alice
 /*---------------------------
 public and private key of bob
 ----------------------------*/ 
-const bob_public_key = console.log("Public key of Bob: ",bob.getPublicKey().toString('hex'), "\n")
-// console.log("Private key of Alice: ",bob.getPrivateKey().toString('hex'))
+// console.log("Public key of Bob: ",bob.getPublicKey().toString('hex'), "\n")
+// console.log("Private key of Bob: ",bob.getPrivateKey().toString('hex'))
 
 
 
