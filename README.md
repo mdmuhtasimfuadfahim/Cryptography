@@ -21,7 +21,7 @@ You must follow the steps below to setup the environment and use the codes:</br>
   ```yarn install``` </br>
   It will install all the dependencies in your device.</br>
   
-**Step 3: Change directory and run each files in each folders following the commands: **</br>
+**Step 3: Change directory and run each files in each folders following the commands:**</br>
 example: ```cd AES256```</br>
 ```node aes-256-ctr```</br>
 </br>**You will be able to see the results in console and you may change the console by your own need.**</br>
