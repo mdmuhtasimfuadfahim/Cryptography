@@ -8,18 +8,18 @@ Here you will find encryption and decryption codes using AES256, RSA. Hash opera
 
 ## Technology Stack and Tools:
   * Javascript (Writing scripts)
-  * [[Node.js|https://nodejs.org/en/]](To run my scripts and install dependencies)
+  * <a href="https://nodejs.org/en/">Node.js</a> (To run my scripts and install dependencies)
   * NPM / Yarn
 
 ## Getting Started
 You must follow the steps below to setup the environment and use the codes:</br>
 
-**Step 1: Clone this repo by:** </br>
+**Step 1: Download or Clone this repo by:** </br>
 ```git clone https://github.com/mdmuhtasimfuadfahim/Cryptography```
 </br>
 
-**Step 2: From the root directory, run the commands:**</br>
-  ```yarn install``` </br>
+**Step 2: From the root directory, run this command to install dependencies:**</br>
+  ```yarn install``` or ```npm install``` </br>
   It will install all the dependencies in your device.</br>
   
 **Step 3: Change directory and run each files in each folders following the commands:**</br>
