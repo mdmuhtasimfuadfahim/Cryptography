@@ -6,8 +6,9 @@
 
 Here you will find encryption and decryption codes using AES256, RSA. Hash operations using SHA256, Object-Hash etc. Digital signature and encryption, decryption together using RSA. End-to-end encryption using Elliptic-Curve Diffie-Hellman, Diffie-Hellman algorithm etc.
 
-## Tools and Technologies:
-  * Node
+## Technology Stack and Tools:
+  * Javascript (Writing scripts)
+  * [[Node.js|https://nodejs.org/en/]](To run my scripts and install dependencies)
   * NPM / Yarn
 
 ## Getting Started
