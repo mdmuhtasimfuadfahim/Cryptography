@@ -1,7 +1,5 @@
 # Cryptography
 
-# CoinDesk Test API Documentation
-
 ## General Information
 
 Here you will find encryption and decryption codes using AES256, RSA. Hash operations using SHA256, Object-Hash etc. Digital signature and encryption, decryption together using RSA. End-to-end encryption using Elliptic-Curve Diffie-Hellman, Diffie-Hellman algorithm etc.
@@ -9,9 +7,12 @@ Here you will find encryption and decryption codes using AES256, RSA. Hash opera
 ## Technology Stack and Tools:
   * Javascript (Writing scripts)
   * <a href="https://nodejs.org/en/">Node.js</a> (To run my scripts and install dependencies)
-  * NPM / Yarn
+  * <a href="https://yarnpkg.com/">Yarn</a> or NPM (it will be installed automatically with Node)
+  * <a href="https://www.npmjs.com/package/node-rsa">Node-RSA</a>
+  * <a href="https://www.npmjs.com/package/crypto">Crypto</a>
+  * <a href="https://www.npmjs.com/package/aes256">AES256</a>
 
-## Getting Started
+## Setting up
 You must follow the steps below to setup the environment and use the codes:</br>
 
 **Step 1: Download or Clone this repo by:** </br>
